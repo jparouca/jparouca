@@ -38,6 +38,7 @@ focus is backend applications in Node and Go. I also falled to the rabbit hole o
 ---
 
 <p align="center">I like league :( Here is an ascii tracker of my previous matches.</p>
+
 ```txt
 # ♟︎ LoL Ratings Chart #
 LP History:
