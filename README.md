@@ -11,7 +11,6 @@ writing home-made CLI applications are one of my favorite past-time activities. 
 My experience and knowledge (both in heavy quotes) spans over multiple languages, my primary
 focus is backend applications in Node and Go. I also falled to the rabbit hole of linux desktop development which doesn't have many non-janky options (looking at you Electron) but I found GTK and its javascript keybinds to be good.
 
-- 📅 Programming since 2018
 - 🖥️ Arch / Hyprland / Neovim
 - 👨 Despite its shortcomings, Go is my _go-to_ language (pun fully intended)
 - 🌐 Frontend via React/NextJS used to be my primary stack. Now I focus more on backend applications.
